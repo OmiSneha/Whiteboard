@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+}
+.nav{
+    background-color:#DCDCDC;
+    position:fixed;
+    right:0;
+    bottom:40%;
+}
+.nav_items li{
+    padding:10px;
+    cursor:pointer;
+}
+#red{
+    color:red;
+}
+#blue{
+    color:blue;
+}
+#green{
+    color:green;
+}
+#black{
+    color:black;
+}
+#yellow{
+    color:yellow;
+}
+.nav_items li:hover{
+    background-color:#696969;
+}
